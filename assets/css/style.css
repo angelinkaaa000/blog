@@ -4066,7 +4066,11 @@ label {
 }
 .cs_card.cs_style_1 .cs_card_text {
   padding: 0 1px 1px 1px;
-  background: var(--linear, linear-gradient(90deg, rgba(224, 24, 255, 0.8) 0%, rgba(130, 63, 255, 0.8) 100%));
+
+  /*   background: var(--linear, linear-gradient(90deg, rgba(224, 24, 255, 0.8) 0%, rgba(130, 63, 255, 0.8) 100%));
+*/
+  
+  background: var(--linear, linear-gradient(90deg, rgba(224, 24, 255, 0.8) 0%, rgba(255, 255, 255, 0.8) 100%));
   border-radius: 0px 0px 8px 8px;
   position: relative;
   z-index: 1;
