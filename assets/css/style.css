@@ -21,13 +21,13 @@
 ## All Variable
 ----------------------------------------------------------------*/
 :root {
-  --web-wash: #0a0909;
-  --heading-color: #fff;
-  --body-color: rgba(255, 255, 255, 0.7);
-  --ternary: #88a5ad;
-  --accent-color: #e018ff;
-  --gray: #f7f7f7;
-  --border: #dddddd;
+  --web-wash: #1A1A1A;
+  --heading-color: #D6001C;
+  --body-color: rgba(255, 255, 255, 0.85);
+  --ternary: #6B1014;
+  --accent-color: #D6001C;
+  --gray: #EDEDED;
+  --border: #CCCCCC;
   --heading-font: "Conthrax", serif;
   --body-font: "Urbanist", sans-serif;
 }
